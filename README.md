@@ -154,40 +154,6 @@ This hackathon prototype currently focuses on the core experience:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Sudhanshu-Singh-Parmar/Synkora
-```
-
-### 2. Open the project folder
-
-```bash
-cd synkora
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Run the development server
-
-```bash
-npm run dev
-```
-
-### 5. Open in browser
-
-```bash
-http://localhost:5173
-```
-
----
-
 ## 📌 Demo Flow
 
 1. Register or log in
@@ -203,7 +169,8 @@ http://localhost:5173
 
 ## 🎥 Demo / Deployment
 
-- **Live Demo:** `https://synkora-three.vercel.app/`
+- **Live Demo:** https://synkora-two.vercel.app/
+- **You tube link:** https://youtu.be/rCvfhXuCRqY
 
 ---
 
@@ -519,7 +486,6 @@ A more production-ready version of Synkora can be built using:
 ## 👨‍💻 Team
 - Sudhanshu Singh Parmar
 - Bhanu Saran
-- Prashant Singh
 - Priyanshu
 - Rishi Kumar
 
@@ -534,4 +500,4 @@ By allowing users to **teach, earn, and learn**, Synkora reduces barriers to edu
 **Learn what you need by teaching what you know.**
 
 ---
->>>>>>> e1e665f (Initial commit)
+
